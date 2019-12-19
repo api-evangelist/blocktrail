@@ -1,0 +1,53 @@
+{
+    "name": "Blocktrail",
+    "description": "sign up for new Bitcoin Wallet by BlockTrail, and regain control of your bitcoin",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26415-www-blocktrail-com.jpg",
+    "tags": [
+        "api provider",
+        "blockchain",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/blocktrail\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Blocktrail",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26415-www-blocktrail-com.jpg",
+            "humanURL": "https:\/\/www.blocktrail.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/blocktrail-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/blocktrail"
+        },
+        {
+            "type": "Email",
+            "url": "support@blocktrail.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers@blocktrail.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/blocktrail"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.blocktrail.com"
+        }
+    ]
+}
